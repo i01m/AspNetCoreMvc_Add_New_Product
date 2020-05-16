@@ -1,2 +1,6 @@
 WorkingWithVisualStudio/wwwroot/* linguist-vendored
 WorkingWithVisualStudio.Tests/* linguist-vendored
+
+
+*.css linguist-detectable=false
+*.cs linguist-detectable=true
